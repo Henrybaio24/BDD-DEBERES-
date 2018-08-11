@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUD",
+    "\\CRUD\\CapaDatos",
+    "\\CRUD\\CapaNegocios",
+    "\\CRUD\\CapaPresentacion",
+    "\\CRUD\\CapasDatos"
+  ],
+  "SelectedNode": "\\CRUD\\CapaDatos\\Conexion.cs",
+  "PreviewInSolutionExplorer": false
+}

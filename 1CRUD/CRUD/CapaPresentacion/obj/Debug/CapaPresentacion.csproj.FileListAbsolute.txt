@@ -1,0 +1,15 @@
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\PAULM\Desktop\1CRUD\CRUD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
